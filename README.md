@@ -14,7 +14,7 @@ A simple To-Do List web application built using **HTML**, **CSS**, and **JavaScr
 ---
 
 ## How to Use
-
+https://kumarirupani.github.io/Todo-list-app/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/KumariRupani/todo-list.git
